@@ -1,15 +1,15 @@
 h1 {
-    color: rgb(238, 114, 242);
-    text-align: center;
+  color: black; 
+  text-align: center; 
 }
 
 div {
-    color: rgb(238, 114, 242);
-
+  color: black; 
+  text-align: center; 
 }
 
-body {
-    background-color: black;
-    display: grid;
-    place-items: center;
+body { 
+  display: grid;
+  place-items: center; 
 }
+
