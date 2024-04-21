@@ -14,10 +14,8 @@ body {
     width: 6;
     height: center;
 }
-
+.imagem{
 border-radius: 5%;
-width: 60px;
 height: auto; 
 margin-top: 20px; 
 }
-
