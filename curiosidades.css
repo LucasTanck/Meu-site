@@ -42,14 +42,12 @@ p {
     color: #666;
 }
 
-/* adionei o list-style-type para tirar o ponyo preto que fica*/
 
 ul {
     list-style-type: none;
     padding: 0;
 }
 
-/* coloquei o text-decoreition para tirar decoranção do texto */
 ul li a {
     color: #007bff;
     text-decoration: none;
