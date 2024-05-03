@@ -1,22 +1,30 @@
 p {
     text-align: center;
-    color: #b61edd;
+    color: #ffffff;
 }
 
     h1{
         text-align: center;
-        color: #b61edd;
+        color: #ffffff;
     }
 
  li {
     position:relative;
-    color: #b61edd;
+    color: #ffffff;
     left: px;
  }
+#coxudo {
+    position: absolute;
+    top: 60%;
+    left: 35%;
+    width: 500px;
+    height: 300px;
+    border-radius: 12%;
+}
 
     h3{
         text-align: center;
-        color: #b61edd;
+        color: #ffffff;
 }
 
  body {
