@@ -4,12 +4,16 @@ h1 {
 }
 
 h2 {
+    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     color: black;
 
 }
+h3 {
+    font font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
 body {
-    background-color: rgb(170, 238, 144);
+    background-color: rgb(98, 148, 151);
 
 }
 .container {
@@ -26,4 +30,5 @@ body {
     left: 35%;
     width: 500px;
     height: 250px;
+    border-radius: 12%;
 }
